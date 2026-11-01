@@ -6,6 +6,7 @@ I build scalable web applications with **ASP.NET Core** on the backend and **Rea
 I enjoy clean architecture, REST APIs, and turning business requirements into reliable software.
 
 🔭 Currently working on: A Clinic Management ERP System (as Front-End Development) Freelance.
+
 🌱 Currently learning: Microsoft Azure, Microservices Architecture, Cloud Computing, and CI/CD.
 
 ## 🛠 Tech Stack
@@ -30,27 +31,36 @@ I enjoy clean architecture, REST APIs, and turning business requirements into re
 
 ## 🚀 Featured Projects
 
+### 🛒 [ECommerce](https://github.com/Reham-Abdel-Nasser/ECommerce)
+A scalable e-commerce backend application built with modern .NET technologies, focusing on clean architecture, product management, and efficient data access.
+
+**Stack:** C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, Clean Architecture, Redis / Hybrid Caching.
+
+**Tools:** Swagger, Postman, Docker, API Versioning.
+
+### 🏋️ [GymRoute](https://github.com/Reham-Abdel-Nasser/GymRoute)
+A gym management system designed to streamline gym operations, manage members, and organize fitness services using a modern N-Tier architecture.
+
+**Stack:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, N-Tier Architecture.
+
+**Tools:** Cloudinary (Image Upload & Storage).
+
 ### 🏦 [Bank Management System](https://github.com/Reham-Abdel-Nasser/BankManagementSystem)
-A backend application for managing banking operations, accounts, and financial transactions with structured business logic and data persistence.
+A banking application for managing customer accounts and financial transactions with structured business logic and data persistence.
 
-**Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server, RESTful APIs.
+**Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server.
 
-### 🏥 Clinic Management ERP System
+### 🏥 [Clinic Management ERP System](Private)
 A modern clinic management platform designed to streamline healthcare operations, including patient management, doctors, appointments, and billing.
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, React Query, REST API Integration.
 
-**Repository:** [Add your frontend repository URL]
-
-### 🎓 School Portal – Microservices
-A school management application built using a microservices architecture to organize and manage different school-related operations.
+### 🎓 [School Portal – Microservices](https://github.com/Reham-Abdel-Nasser/SchoolPortal)
+A school management application built using microservices architecture to organize and manage school-related operations.
 
 **Stack:** C#, ASP.NET Core Web API, Microservices, Entity Framework Core, SQL Server, Docker.
-
-**Repository:** [Add your backend repository URL]
 
 ## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/reham-abd-elnasser-b75726397
 - 📧 Email: rehamabdelnasser757@gmail.com
-
